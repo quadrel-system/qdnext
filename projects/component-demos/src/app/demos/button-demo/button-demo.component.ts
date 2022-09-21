@@ -22,6 +22,7 @@ import { Component, ChangeDetectionStrategy } from '@angular/core';
     <h4>cd-button</h4>
     <div class="group">
       <ng-container *ngFor="let item of groups">
+      HELLO WORLD!
         <button
           cd-button
           [size]="item.size"
