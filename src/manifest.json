@@ -1,6 +1,6 @@
 {
   "name": "QD UI Builder",
-  "short_name": "WebPrototypingTool",
+  "short_name": "QD UI Builder",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
