@@ -24,7 +24,7 @@ import * as cd from 'cd-interfaces';
 export const BOARD_TAG = 'APP-BOARD';
 export const RENDERER_TAG = 'APP-NG-RENDERER';
 
-const NAME = 'WebPrototypingTool';
+const NAME = 'QD UI Builder';
 const DISABLE_OVERSCROLL_CLASS = 'disable-overscroll';
 const TITLE_DIVIDER = ' - ';
 /** Defined in properties.component.html */
