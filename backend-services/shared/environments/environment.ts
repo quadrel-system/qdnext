@@ -22,4 +22,4 @@ export const DATABASE_URL = 'https://web-prototype-6caa6-default-rtdb.europe-wes
 
 export const APPROVED_BRANCH_ORIGIN_REGEX: string | false = '';
 
-export const APPROVED_ORIGINS = ['http://0.0.0.0:4200', 'http://0.0.0.0:4201'];
+export const APPROVED_ORIGINS = ['http://34.65.191.246:4200', 'http://http://34.65.191.246:4201'];
