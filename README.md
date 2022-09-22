@@ -1,6 +1,6 @@
-# WebPrototypingTool
+# WPT
 
-Web based prototyping tool built using Angular and Firestore. Build high-fidelity prototypes in your browser using real components.
+Web based tool
 
 ## Outline
 
