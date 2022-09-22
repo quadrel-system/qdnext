@@ -21,8 +21,8 @@ import type { IEnvironment } from 'cd-interfaces';
 
 // Enter Firebase and other setup information here
 export const environment: IEnvironment = {
-  rendererUrl: '//34.65.191.246:4200/assets/renderer/index.html',
-  renderOutletUrl: '//34.65.191.246:4200/assets/render-outlet/index.html',
+  rendererUrl: '/assets/renderer/index.html',
+  renderOutletUrl: '/assets/render-outlet/index.html',
   clientId: '',
   googleFonts: {
     apiKey: '',
